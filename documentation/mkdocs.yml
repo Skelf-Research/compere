@@ -1,8 +1,9 @@
 site_name: Compere Documentation
 site_description: A comparative rating system using Multi-Armed Bandit algorithms and Elo ratings
-site_url: https://terraprompt.github.io/compere/
-repo_url: https://github.com/terraprompt/compere
-repo_name: terraprompt/compere
+site_url: https://docs.skelfresearch.com/compere/
+repo_url: https://github.com/Skelf-Research/compere
+repo_name: Skelf-Research/compere
+edit_uri: edit/main/documentation/docs/
 
 theme:
   name: material
