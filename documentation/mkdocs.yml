@@ -36,33 +36,36 @@ theme:
 
 nav:
   - Home: index.md
-  - Getting Started:
-    - getting-started/index.md
-    - Installation: getting-started/installation.md
-    - Quick Start: getting-started/quickstart.md
-    - First Comparison: getting-started/first-comparison.md
-  - User Guide:
-    - user-guide/index.md
-    - API Reference: user-guide/api-reference.md
-    - Library Usage: user-guide/library-usage.md
-    - Configuration: user-guide/configuration.md
-  - Concepts:
-    - concepts/index.md
-    - Elo Rating System: concepts/elo-rating.md
-    - MAB Algorithm: concepts/mab-algorithm.md
-    - Entity Pairing: concepts/entity-pairing.md
-  - Deployment:
-    - deployment/index.md
-    - Docker: deployment/docker.md
-    - Production Guide: deployment/production.md
-    - Troubleshooting: deployment/troubleshooting.md
-  - Development:
-    - development/index.md
-    - Contributing: development/contributing.md
-    - Testing: development/testing.md
-    - Architecture: development/architecture.md
-  - Security: security.md
-  - FAQ: faq.md
+  - Docs:
+    - Getting Started:
+      - getting-started/index.md
+      - Installation: getting-started/installation.md
+      - Quick Start: getting-started/quickstart.md
+      - First Comparison: getting-started/first-comparison.md
+    - User Guide:
+      - user-guide/index.md
+      - Library Usage: user-guide/library-usage.md
+      - Configuration: user-guide/configuration.md
+    - Concepts:
+      - concepts/index.md
+      - Elo Rating System: concepts/elo-rating.md
+      - MAB Algorithm: concepts/mab-algorithm.md
+      - Entity Pairing: concepts/entity-pairing.md
+    - Deployment:
+      - deployment/index.md
+      - Docker: deployment/docker.md
+      - Production Guide: deployment/production.md
+      - Troubleshooting: deployment/troubleshooting.md
+  - API Reference:
+    - user-guide/api-reference.md
+  - Project:
+    - Development:
+      - development/index.md
+      - Contributing: development/contributing.md
+      - Testing: development/testing.md
+      - Architecture: development/architecture.md
+    - Security: security.md
+    - FAQ: faq.md
 
 plugins:
   - search
