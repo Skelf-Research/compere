@@ -9,6 +9,12 @@
 [![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
 [![Docs](https://img.shields.io/badge/docs-skelfresearch.com-blue)](https://docs.skelfresearch.com/compere)
 
+<p align="center">
+  <a href="https://compere.skelfresearch.com"><b>Website</b></a> •
+  <a href="https://docs.skelfresearch.com/compere">Documentation</a> •
+  <a href="https://skelfresearch.com">Skelf Research</a>
+</p>
+
 Compere combines **Multi-Armed Bandit algorithms** with **Elo ratings** to build ranking systems that learn which comparisons matter most. Get accurate rankings faster by asking the right questions.
 
 ```
@@ -309,3 +315,15 @@ MIT License - see [LICENSE](LICENSE) for details.
 <p align="center">
   <sub>Built for humans who rank things.</sub>
 </p>
+
+---
+
+## Part of Skelf Research
+
+`compere` is built by **[Skelf Research](https://skelfresearch.com)** — an independent UK AI research lab publishing production-grade open-source projects.
+
+🌐 [Website](https://compere.skelfresearch.com) · 📚 [Documentation](https://docs.skelfresearch.com/compere) · 🔬 [All projects](https://skelfresearch.com/projects) · 🤗 [Hugging Face](https://huggingface.co/skelfresearch)
+
+**Related projects:** [l0l1](https://l0l1.skelfresearch.com) (AI SQL co-pilot) · [mpl](https://mpl.skelfresearch.com) (agent-comms contracts) · [savanty](https://savanty.skelfresearch.com) (English→constraint solver)
+
+<sub>Released under MIT / Apache-2.0. © Skelf Research Limited.</sub>
